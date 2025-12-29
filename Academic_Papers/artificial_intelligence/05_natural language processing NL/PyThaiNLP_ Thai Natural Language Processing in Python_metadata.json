@@ -1,0 +1,8 @@
+{
+  "title": "PyThaiNLP: Thai Natural Language Processing in Python",
+  "authors": "Wannaphong Phatthiyaphaibun, Korakot Chaovavanich, Charin Polpanumas, Arthit Suriyawongkul, Lalita Lowphansirikul, Pattarawat Chormai, Peerat Limkonchotiwat, Thanathip Suntorntip, Can Udomcharoenchaikit",
+  "abstract": "We present PyThaiNLP, a free and open-source natural language processing (NLP) library for Thai language implemented in Python. It provides a wide range of software, models, and datasets for Thai language. We first provide a brief historical context of tools for Thai language prior to the development of PyThaiNLP. We then outline the functionalities it provided as well as datasets and pre-trained language models. We later summarize its development milestones and discuss our experience during its development. We conclude by demonstrating how industrial and research communities utilize PyThaiNLP in their work. The library is freely available at https://github.com/pythainlp/pythainlp.",
+  "pdf_url": "https://arxiv.org/pdf/2312.04649v1",
+  "source": "ArXiv",
+  "query": "natural language processing NLP"
+}

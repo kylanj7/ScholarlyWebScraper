@@ -1,0 +1,11 @@
+{
+  "title": "A Review on Remote Sensing Data Fusion with Generative Adversarial Networks (GAN)",
+  "authors": "Peng Liu",
+  "abstract": "<jats:p>In the past decades, remote sensing (RS) data fusion has always been an active research community. A large number of algorithms and models have been developed. Generative Adversarial Networks (GAN), as an important branch of deep learning, show promising performances in variety of RS image fusions. This review provides an introduction to GAN for remote sensing data fusion. We briefly review the frequently-used architecture and characteristics of GAN in data fusion and comprehensively discuss how to use GAN to realize fusion for homogeneous RS data, heterogeneous RS data, and RS and ground observation data. We also analyzed some typical applications with GAN-based RS image fusion. This review takes insight into how to make GAN adapt to different types of fusion tasks and summarizes the advantages and disadvantages of GAN-based RS data fusion. Finally, we discuss the promising future research directions and make a prediction on its trends.</jats:p>",
+  "doi": "10.36227/techrxiv.16607261.v1",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "year": null,
+  "url": "https://doi.org/10.36227/techrxiv.16607261.v1",
+  "source": "CrossRef",
+  "query": "generative adversarial networks GAN"
+}

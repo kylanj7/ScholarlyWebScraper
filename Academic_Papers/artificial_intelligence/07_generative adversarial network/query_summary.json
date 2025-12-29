@@ -1,0 +1,92 @@
+{
+  "query": "generative adversarial networks GAN",
+  "timestamp": "2025-12-29T09:27:30.325769",
+  "total_found": 9,
+  "downloaded": 5,
+  "papers": [
+    {
+      "title": "Quaternion Generative Adversarial Networks",
+      "authors": "Eleonora Grassucci, Edoardo Cicero, Danilo Comminiello",
+      "abstract": "Latest Generative Adversarial Networks (GANs) are gathering outstanding results through a large-scale training, thus employing models composed of millions of parameters requiring extensive computational capabilities. Building such huge models undermines their replicability and increases the training instability. Moreover, multi-channel data, such as images or audio, are usually processed by realvalued convolutional networks that flatten and concatenate the input, often losing intra-channel spatial relations. To address these issues related to complexity and information loss, we propose a family of quaternion-valued generative adversarial networks (QGANs). QGANs exploit the properties of quaternion algebra, e.g., the Hamilton product, that allows to process channels as a single entity and capture internal latent relations, while reducing by a factor of 4 the overall number of parameters. We show how to design QGANs and to extend the proposed approach even to advanced models.We compare the proposed QGANs with real-valued counterparts on several image generation benchmarks. Results show that QGANs are able to obtain better FID scores than real-valued GANs and to generate visually pleasing images. Furthermore, QGANs save up to 75% of the training parameters. We believe these results may pave the way to novel, more accessible, GANs capable of improving performance and saving computational resources.",
+      "pdf_url": "https://arxiv.org/pdf/2104.09630v2",
+      "source": "ArXiv",
+      "query": "generative adversarial networks GAN"
+    },
+    {
+      "title": "DogLayout: Denoising Diffusion GAN for Discrete and Continuous Layout Generation",
+      "authors": "Zhaoxing Gan, Guangnan Ye",
+      "abstract": "Layout Generation aims to synthesize plausible arrangements from given elements. Currently, the predominant methods in layout generation are Generative Adversarial Networks (GANs) and diffusion models, each presenting its own set of challenges. GANs typically struggle with handling discrete data due to their requirement for differentiable generated samples and have historically circumvented the direct generation of discrete labels by treating them as fixed conditions. Conversely, diffusion-based models, despite achieving state-of-the-art performance across several metrics, require extensive sampling steps which lead to significant time costs. To address these limitations, we propose \\textbf{DogLayout} (\\textbf{D}en\\textbf{o}ising Diffusion \\textbf{G}AN \\textbf{Layout} model), which integrates a diffusion process into GANs to enable the generation of discrete label data and significantly reduce diffusion's sampling time. Experiments demonstrate that DogLayout considerably reduces sampling costs by up to 175 times and cuts overlap from 16.43 to 9.59 compared to existing diffusion models, while also surpassing GAN based and other layout methods. Code is available at https://github.com/deadsmither5/DogLayout.",
+      "pdf_url": "https://arxiv.org/pdf/2412.00381v1",
+      "source": "ArXiv",
+      "query": "generative adversarial networks GAN"
+    },
+    {
+      "title": "Style Transfer Generative Adversarial Networks: Learning to Play Chess Differently",
+      "authors": "Muthuraman Chidambaram, Yanjun Qi",
+      "abstract": "The idea of style transfer has largely only been explored in image-based tasks, which we attribute in part to the specific nature of loss functions used for style transfer. We propose a general formulation of style transfer as an extension of generative adversarial networks, by using a discriminator to regularize a generator with an otherwise separate loss function. We apply our approach to the task of learning to play chess in the style of a specific player, and present empirical evidence for the viability of our approach.",
+      "pdf_url": "https://arxiv.org/pdf/1702.06762v2",
+      "source": "ArXiv",
+      "query": "generative adversarial networks GAN"
+    },
+    {
+      "title": "SCPAT-GAN: Structural Constrained and Pathology Aware Convolutional Transformer-GAN for Virtual Histology Staining of Human Coronary OCT images",
+      "authors": "Xueshen Li, Hongshan Liu, Xiaoyu Song, Brigitta C. Brott, Silvio H. Litovsky, Yu Gan",
+      "abstract": "There is a significant need for the generation of virtual histological information from coronary optical coherence tomography (OCT) images to better guide the treatment of coronary artery disease. However, existing methods either require a large pixel-wisely paired training dataset or have limited capability to map pathological regions. To address these issues, we proposed a structural constrained, pathology aware, transformer generative adversarial network, namely SCPAT-GAN, to generate virtual stained H&E histology from OCT images. The proposed SCPAT-GAN advances existing methods via a novel design to impose pathological guidance on structural layers using transformer-based network.",
+      "pdf_url": "https://arxiv.org/pdf/2307.12138v1",
+      "source": "ArXiv",
+      "query": "generative adversarial networks GAN"
+    },
+    {
+      "title": "Synthesis of pulses from particle detectors with a Generative Adversarial Network (GAN)",
+      "authors": "Alberto Regadío, Luis Esteban, Sebastián Sánchez-Prieto",
+      "abstract": "To address the possible lack or total absence of pulses from particle detectors during the development of its associate electronics, we propose a model that can generate them without losing the features of the real ones. This model is based on artificial neural networks, namely Generative Adversarial Networks (GAN). We describe the proposed network architecture, its training methodology and the approach to train the GAN with real pulses from a scintillator receiving radiation from sources of ${}^{137}$Cs and ${}^{22}$Na. The Generator was installed in a Xilinx's System-On-Chip (SoC). We show how the network is capable of generating pulses with the same shape as the real ones that even match the data distributions in the original pulse-height histogram data.",
+      "pdf_url": "https://arxiv.org/pdf/2401.05295v1",
+      "source": "ArXiv",
+      "query": "generative adversarial networks GAN"
+    },
+    {
+      "title": "Algorithm 2: Bidirectional generative adversarial networks (Bi-GAN).",
+      "authors": "",
+      "abstract": "",
+      "doi": "10.7717/peerj-cs.2853/table-102",
+      "publisher": "PeerJ",
+      "year": null,
+      "url": "https://doi.org/10.7717/peerj-cs.2853/table-102",
+      "source": "CrossRef",
+      "query": "generative adversarial networks GAN"
+    },
+    {
+      "title": "Generative Artificial Intelligence and Generative Adversarial Networks (GAN)",
+      "authors": "Ayhan Arisoy",
+      "abstract": "",
+      "doi": "10.1201/9781003605416-10",
+      "publisher": "CRC Press",
+      "year": 2025,
+      "url": "https://doi.org/10.1201/9781003605416-10",
+      "source": "CrossRef",
+      "query": "generative adversarial networks GAN"
+    },
+    {
+      "title": "A Review on Remote Sensing Data Fusion with Generative Adversarial Networks (GAN)",
+      "authors": "Peng Liu",
+      "abstract": "<jats:p>In the past decades, remote sensing (RS) data fusion has always been an active research community. A large number of algorithms and models have been developed. Generative Adversarial Networks (GAN), as an important branch of deep learning, show promising performances in variety of RS image fusions. This review provides an introduction to GAN for remote sensing data fusion. We briefly review the frequently-used architecture and characteristics of GAN in data fusion and comprehensively discuss how to use GAN to realize fusion for homogeneous RS data, heterogeneous RS data, and RS and ground observation data. We also analyzed some typical applications with GAN-based RS image fusion. This review takes insight into how to make GAN adapt to different types of fusion tasks and summarizes the advantages and disadvantages of GAN-based RS data fusion. Finally, we discuss the promising future research directions and make a prediction on its trends.</jats:p>",
+      "doi": "10.36227/techrxiv.16607261.v1",
+      "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+      "year": null,
+      "url": "https://doi.org/10.36227/techrxiv.16607261.v1",
+      "source": "CrossRef",
+      "query": "generative adversarial networks GAN"
+    },
+    {
+      "title": "Case Studies on Generative Adversarial Networks in Precision Farming",
+      "authors": "Pradnya Awate, Ajay D. Nagne",
+      "abstract": "<jats:p>The chapter reviews the applicability of Generative Adversarial Networks in precision agriculture, with an emphasis on its role in enhancing remote sensing technology. This ranges from resolution augmentation for satellite and drone images using GAN-based models like SRGAN and CycleGAN to generating synthetic data for training models that will help in crop health monitoring, soil analysis, and yield prediction. This case study demonstrates tremendous improvements in image quality and decision-making, with further reach into weather simulation, real-time UAV monitoring, and IoT integration.</jats:p>",
+      "doi": "10.4018/979-8-3693-6900-5.ch011",
+      "publisher": "IGI Global",
+      "year": 2025,
+      "url": "https://doi.org/10.4018/979-8-3693-6900-5.ch011",
+      "source": "CrossRef",
+      "query": "generative adversarial networks GAN"
+    }
+  ]
+}

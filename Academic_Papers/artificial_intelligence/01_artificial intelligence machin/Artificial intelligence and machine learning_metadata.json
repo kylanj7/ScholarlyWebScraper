@@ -1,0 +1,11 @@
+{
+  "title": "Artificial intelligence and machine learning",
+  "authors": "Arthur M. Lesk",
+  "abstract": "<p>This chapter addresses the topics of artificial intelligence and machine learning. The idea of artificial intelligence is that a computer is doing something that, at least casually, can be regarded as ‘thinking’. However, the sophistication of the program might be a translation of some aspect of the intelligence of the programmer. Machine learning goes beyond this; for machine learning, the program has to take the initiative to improve the performance of the algorithm. The chapter then looks at the difference between classification and clustering, as well as between supervised learning and unsupervised learning. The Receiver Operating Characteristic (ROC) curves reveal how the quality of a prediction depends on the choice of separation threshold. The chapter also considers the structure and activity of artificial neurons, and how they can be combined into artificial neural networks; decision trees; and support vector machines.</p>",
+  "doi": "10.1093/hesc/9780198794141.003.0007",
+  "publisher": "Oxford University Press",
+  "year": 2019,
+  "url": "https://doi.org/10.1093/hesc/9780198794141.003.0007",
+  "source": "CrossRef",
+  "query": "artificial intelligence machine learning"
+}

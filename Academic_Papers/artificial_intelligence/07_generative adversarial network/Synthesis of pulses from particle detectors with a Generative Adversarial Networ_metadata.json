@@ -1,0 +1,8 @@
+{
+  "title": "Synthesis of pulses from particle detectors with a Generative Adversarial Network (GAN)",
+  "authors": "Alberto Regadío, Luis Esteban, Sebastián Sánchez-Prieto",
+  "abstract": "To address the possible lack or total absence of pulses from particle detectors during the development of its associate electronics, we propose a model that can generate them without losing the features of the real ones. This model is based on artificial neural networks, namely Generative Adversarial Networks (GAN). We describe the proposed network architecture, its training methodology and the approach to train the GAN with real pulses from a scintillator receiving radiation from sources of ${}^{137}$Cs and ${}^{22}$Na. The Generator was installed in a Xilinx's System-On-Chip (SoC). We show how the network is capable of generating pulses with the same shape as the real ones that even match the data distributions in the original pulse-height histogram data.",
+  "pdf_url": "https://arxiv.org/pdf/2401.05295v1",
+  "source": "ArXiv",
+  "query": "generative adversarial networks GAN"
+}

@@ -1,0 +1,8 @@
+{
+  "title": "Towards the Study of Morphological Processing of the Tangkhul Language",
+  "authors": "Mirinso Shadang, Navanath Saharia, Thoudam Doren Singh",
+  "abstract": "There is no or little work on natural language processing of Tangkhul language. The current work is a humble beginning of morphological processing of this language using an unsupervised approach. We use a small corpus collected from different sources of text books, short stories and articles of other topics. Based on the experiments carried out, the morpheme identification task using morphessor gives reasonable and interesting output despite using a small corpus.",
+  "pdf_url": "https://arxiv.org/pdf/2006.16212v1",
+  "source": "ArXiv",
+  "query": "natural language processing NLP"
+}

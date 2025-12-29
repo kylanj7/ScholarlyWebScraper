@@ -1,0 +1,92 @@
+{
+  "query": "artificial intelligence machine learning",
+  "timestamp": "2025-12-29T09:22:42.457815",
+  "total_found": 9,
+  "downloaded": 5,
+  "papers": [
+    {
+      "title": "Watershed of Artificial Intelligence: Human Intelligence, Machine Intelligence, and Biological Intelligence",
+      "authors": "Li Weigang, Liriam Enamoto, Denise Leyi Li, Geraldo Pereira Rocha Filho",
+      "abstract": "This article reviews the \"Once learning\" mechanism that was proposed 23 years ago and the subsequent successes of \"One-shot learning\" in image classification and \"You Only Look Once - YOLO\" in objective detection. Analyzing the current development of Artificial Intelligence (AI), the proposal is that AI should be clearly divided into the following categories: Artificial Human Intelligence (AHI), Artificial Machine Intelligence (AMI), and Artificial Biological Intelligence (ABI), which will also be the main directions of theory and application development for AI. As a watershed for the branches of AI, some classification standards and methods are discussed: 1) Human-oriented, machine-oriented, and biological-oriented AI R&D; 2) Information input processed by Dimensionality-up or Dimensionality-reduction; 3) The use of one/few or large samples for knowledge learning.",
+      "pdf_url": "https://arxiv.org/pdf/2104.13155v2",
+      "source": "ArXiv",
+      "query": "artificial intelligence machine learning"
+    },
+    {
+      "title": "The Artificial Scientist: Logicist, Emergentist, and Universalist Approaches to Artificial General Intelligence",
+      "authors": "Michael Timothy Bennett, Yoshihiro Maruyama",
+      "abstract": "We attempt to define what is necessary to construct an Artificial Scientist, explore and evaluate several approaches to artificial general intelligence (AGI) which may facilitate this, conclude that a unified or hybrid approach is necessary and explore two theories that satisfy this requirement to some degree.",
+      "pdf_url": "https://arxiv.org/pdf/2110.01831v1",
+      "source": "ArXiv",
+      "query": "artificial intelligence machine learning"
+    },
+    {
+      "title": "Creative Problem Solving in Artificially Intelligent Agents: A Survey and Framework",
+      "authors": "Evana Gizzi, Lakshmi Nair, Sonia Chernova, Jivko Sinapov",
+      "abstract": "Creative Problem Solving (CPS) is a sub-area within Artificial Intelligence (AI) that focuses on methods for solving off-nominal, or anomalous problems in autonomous systems. Despite many advancements in planning and learning, resolving novel problems or adapting existing knowledge to a new context, especially in cases where the environment may change in unpredictable ways post deployment, remains a limiting factor in the safe and useful integration of intelligent systems. The emergence of increasingly autonomous systems dictates the necessity for AI agents to deal with environmental uncertainty through creativity. To stimulate further research in CPS, we present a definition and a framework of CPS, which we adopt to categorize existing AI methods in this field. Our framework consists of four main components of a CPS problem, namely, 1) problem formulation, 2) knowledge representation, 3) method of knowledge manipulation, and 4) method of evaluation. We conclude our survey with open research questions, and suggested directions for the future.",
+      "pdf_url": "https://arxiv.org/pdf/2204.10358v1",
+      "source": "ArXiv",
+      "query": "artificial intelligence machine learning"
+    },
+    {
+      "title": "Compression, The Fermi Paradox and Artificial Super-Intelligence",
+      "authors": "Michael Timothy Bennett",
+      "abstract": "The following briefly discusses possible difficulties in communication with and control of an AGI (artificial general intelligence), building upon an explanation of The Fermi Paradox and preceding work on symbol emergence and artificial general intelligence. The latter suggests that to infer what someone means, an agent constructs a rationale for the observed behaviour of others. Communication then requires two agents labour under similar compulsions and have similar experiences (construct similar solutions to similar tasks). Any non-human intelligence may construct solutions such that any rationale for their behaviour (and thus the meaning of their signals) is outside the scope of what a human is inclined to notice or comprehend. Further, the more compressed a signal, the closer it will appear to random noise. Another intelligence may possess the ability to compress information to the extent that, to us, their signals would appear indistinguishable from noise (an explanation for The Fermi Paradox). To facilitate predictive accuracy an AGI would tend to more compressed representations of the world, making any rationale for their behaviour more difficult to comprehend for the same reason. Communication with and control of an AGI may subsequently necessitate not only human-like compulsions and experiences, but imposed cognitive impairment.",
+      "pdf_url": "https://arxiv.org/pdf/2110.01835v1",
+      "source": "ArXiv",
+      "query": "artificial intelligence machine learning"
+    },
+    {
+      "title": "Artificial Intelligence Framework for Simulating Clinical Decision-Making: A Markov Decision Process Approach",
+      "authors": "Casey C. Bennett, Kris Hauser",
+      "abstract": "In the modern healthcare system, rapidly expanding costs/complexity, the growing myriad of treatment options, and exploding information streams that often do not effectively reach the front lines hinder the ability to choose optimal treatment decisions over time. The goal in this paper is to develop a general purpose (non-disease-specific) computational/artificial intelligence (AI) framework to address these challenges. This serves two potential functions: 1) a simulation environment for exploring various healthcare policies, payment methodologies, etc., and 2) the basis for clinical artificial intelligence - an AI that can think like a doctor. This approach combines Markov decision processes and dynamic decision networks to learn from clinical data and develop complex plans via simulation of alternative sequential decision paths while capturing the sometimes conflicting, sometimes synergistic interactions of various components in the healthcare system. It can operate in partially observable environments (in the case of missing observations or data) by maintaining belief states about patient health status and functions as an online agent that plans and re-plans. This framework was evaluated using real patient data from an electronic health record. Such an AI framework easily outperforms the current treatment-as-usual (TAU) case-rate/fee-for-service models of healthcare (Cost per Unit Change: $189 vs. $497) while obtaining a 30-35% increase in patient outcomes. Tweaking certain model parameters further enhances this advantage, obtaining roughly 50% more improvement for roughly half the costs. Given careful design and problem formulation, an AI simulation framework can approximate optimal decisions even in complex and uncertain environments. Future work is described that outlines potential lines of research and integration of machine learning algorithms for personalized medicine.",
+      "pdf_url": "https://arxiv.org/pdf/1301.2158v1",
+      "source": "ArXiv",
+      "query": "artificial intelligence machine learning"
+    },
+    {
+      "title": "Artificial Intelligence, Machine Learning, and Psychology",
+      "authors": "Chong Ho Yu",
+      "abstract": "<p>In 2019, the United States established a national task force for coordinating AI strategies across the federal government, industry, and academia in order to promote scientific discovery, economic competitiveness, and national security. In addition, the 2023 Organisation for Economic Co-operation and Development’s report indicates that AI has become a global competition. Hence, AI is here to stay and this trend is too important to ignore or downplay. From the incubation and development of AI, the relationship between AI and psychology is symbiotic. As cognitive psychologists and neuroscientists gain more insight into how the brain works, AI has been developed by mimicking human neural pathways. On the other hand, insights derived from AI research can be applied to a variety of subfields in psychology, whereas new social issues emerged from AI applications, such as AI bias, echo chambers, and misuse of AI tools (e.g., ChatGPT and Midjourney), led to new research topics in psychology. Further, several schools of thought of AI, such as the connectionist, symbolic, and analogist approaches, heavily borrowed ideas from psychological research. For example, in an attempt to build structural intelligence, connectionists draw an analogy between human neural networks and artificial neural networks. Moreover, AI symbolists subscribe to the notion that the human mental process is a logical production system. Furthermore, prior psychological research indicates that analogical thinking is commonly employed for problem-solving, and this notion became the foundation of example-based machine learning. Similarly, reinforcement learning in AI was inspired by behavioral psychology. Additionally, in line with the findings of developmental psychology that a child learns best through spontaneous discovery, AI researchers believe that setting the deep learning system free will be the most promising research direction. A vast number of pioneers of AI research who devoted efforts to the preceding research agendas are psychologists or received training in psychology, such as Frank Rosenblatt, Allen Newell, John Anderson, David Rumelhart, and Geoffrey Hinton, whereas some were inspired by cognitive science or neuroscience, such as Fei-Fei Li, Demis Hassabis, and Yann LeCun. In addition, in their work Artificial Psychology: Psychological Modeling and Testing of AI Systems (cited under Artificial Psychology) Crowder and his colleagues examined the bidirectional relationship between artificial intelligence and psychology, focusing on cognitive architectures and artificial emotions. The authors proposed comprehensive mathematical models for cognitive architectures, envisioning an AI system capable of reasoning about emotions, adapting to humans, and constructing knowledge representations based on experiences.</p>",
+      "doi": "10.1093/obo/9780199828340-0323",
+      "publisher": "Oxford University Press",
+      "year": null,
+      "url": "https://doi.org/10.1093/obo/9780199828340-0323",
+      "source": "CrossRef",
+      "query": "artificial intelligence machine learning"
+    },
+    {
+      "title": "JOMLAI: Journal of Machine Learning and Artificial Intelligence",
+      "authors": "",
+      "abstract": "",
+      "doi": "10.55123/jomlai",
+      "publisher": "Yayasan Literasi Sains Indonesia",
+      "year": null,
+      "url": "https://doi.org/10.55123/jomlai",
+      "source": "CrossRef",
+      "query": "artificial intelligence machine learning"
+    },
+    {
+      "title": "Essential Concepts in Artificial Intelligence and Machine Learning",
+      "authors": "Ameet V. Joshi",
+      "abstract": "",
+      "doi": "10.1007/978-3-031-12282-8_2",
+      "publisher": "Springer International Publishing",
+      "year": 2023,
+      "url": "https://doi.org/10.1007/978-3-031-12282-8_2",
+      "source": "CrossRef",
+      "query": "artificial intelligence machine learning"
+    },
+    {
+      "title": "Artificial intelligence and machine learning",
+      "authors": "Arthur M. Lesk",
+      "abstract": "<p>This chapter addresses the topics of artificial intelligence and machine learning. The idea of artificial intelligence is that a computer is doing something that, at least casually, can be regarded as ‘thinking’. However, the sophistication of the program might be a translation of some aspect of the intelligence of the programmer. Machine learning goes beyond this; for machine learning, the program has to take the initiative to improve the performance of the algorithm. The chapter then looks at the difference between classification and clustering, as well as between supervised learning and unsupervised learning. The Receiver Operating Characteristic (ROC) curves reveal how the quality of a prediction depends on the choice of separation threshold. The chapter also considers the structure and activity of artificial neurons, and how they can be combined into artificial neural networks; decision trees; and support vector machines.</p>",
+      "doi": "10.1093/hesc/9780198794141.003.0007",
+      "publisher": "Oxford University Press",
+      "year": 2019,
+      "url": "https://doi.org/10.1093/hesc/9780198794141.003.0007",
+      "source": "CrossRef",
+      "query": "artificial intelligence machine learning"
+    }
+  ]
+}

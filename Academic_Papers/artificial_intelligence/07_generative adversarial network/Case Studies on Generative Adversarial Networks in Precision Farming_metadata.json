@@ -1,0 +1,11 @@
+{
+  "title": "Case Studies on Generative Adversarial Networks in Precision Farming",
+  "authors": "Pradnya Awate, Ajay D. Nagne",
+  "abstract": "<jats:p>The chapter reviews the applicability of Generative Adversarial Networks in precision agriculture, with an emphasis on its role in enhancing remote sensing technology. This ranges from resolution augmentation for satellite and drone images using GAN-based models like SRGAN and CycleGAN to generating synthetic data for training models that will help in crop health monitoring, soil analysis, and yield prediction. This case study demonstrates tremendous improvements in image quality and decision-making, with further reach into weather simulation, real-time UAV monitoring, and IoT integration.</jats:p>",
+  "doi": "10.4018/979-8-3693-6900-5.ch011",
+  "publisher": "IGI Global",
+  "year": 2025,
+  "url": "https://doi.org/10.4018/979-8-3693-6900-5.ch011",
+  "source": "CrossRef",
+  "query": "generative adversarial networks GAN"
+}

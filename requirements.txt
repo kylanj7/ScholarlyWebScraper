@@ -1,0 +1,82 @@
+# Core dependencies for Scholarly Article Scraper
+
+# Web scraping and HTTP requests
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+
+# URL handling and parsing
+urllib3>=2.0.0
+
+# Data handling and processing
+json5>=0.9.0
+
+# File and path operations (built-in, but versions for reference)
+# os - built-in
+# time - built-in  
+# random - built-in
+# re - built-in
+
+# Date and time handling
+# datetime - built-in
+
+# XML parsing for ArXiv API responses
+# xml.etree.ElementTree - built-in
+
+# Dynamic module importing
+# importlib - built-in
+
+# Command line argument parsing (for future CLI enhancements)
+argparse>=1.4.0
+
+# Optional: Enhanced features
+# ========================================
+
+# Progress bars for downloads (optional)
+tqdm>=4.65.0
+
+# Better HTTP sessions and retries (optional)
+requests-cache>=1.1.0
+
+# JSON handling with better error messages (optional)
+ujson>=5.8.0
+
+# Text processing and similarity (optional)
+nltk>=3.8.0
+fuzzywuzzy>=0.18.0
+
+# Data analysis for research metrics (optional)  
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Academic citation parsing (optional)
+bibtexparser>=1.4.0
+
+# PDF text extraction (optional)
+PyPDF2>=3.0.0
+pdfplumber>=0.9.0
+
+# Configuration file handling (optional)
+pyyaml>=6.0.0
+configparser>=5.3.0
+
+# Logging enhancements (optional)
+colorlog>=6.7.0
+
+# Testing dependencies (development only)
+# ========================================
+pytest>=7.4.0
+pytest-mock>=3.11.0
+pytest-cov>=4.1.0
+
+# Code formatting (development only)  
+black>=23.7.0
+isort>=5.12.0
+flake8>=6.0.0
+
+# Type checking (development only)
+mypy>=1.5.0
+
+# Documentation (development only)
+sphinx>=7.1.0
+sphinx-rtd-theme>=1.3.0

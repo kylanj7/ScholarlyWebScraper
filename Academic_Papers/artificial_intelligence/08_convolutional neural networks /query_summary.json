@@ -1,0 +1,103 @@
+{
+  "query": "convolutional neural networks CNN",
+  "timestamp": "2025-12-29T09:28:13.209534",
+  "total_found": 10,
+  "downloaded": 5,
+  "papers": [
+    {
+      "title": "Towards Dropout Training for Convolutional Neural Networks",
+      "authors": "Haibing Wu, Xiaodong Gu",
+      "abstract": "Recently, dropout has seen increasing use in deep learning. For deep convolutional neural networks, dropout is known to work well in fully-connected layers. However, its effect in convolutional and pooling layers is still not clear. This paper demonstrates that max-pooling dropout is equivalent to randomly picking activation based on a multinomial distribution at training time. In light of this insight, we advocate employing our proposed probabilistic weighted pooling, instead of commonly used max-pooling, to act as model averaging at test time. Empirical evidence validates the superiority of probabilistic weighted pooling. We also empirically show that the effect of convolutional dropout is not trivial, despite the dramatically reduced possibility of over-fitting due to the convolutional architecture. Elaborately designing dropout training simultaneously in max-pooling and fully-connected layers, we achieve state-of-the-art performance on MNIST, and very competitive results on CIFAR-10 and CIFAR-100, relative to other approaches without data augmentation. Finally, we compare max-pooling dropout and stochastic pooling, both of which introduce stochasticity based on multinomial distributions at pooling stage.",
+      "pdf_url": "https://arxiv.org/pdf/1512.00242v1",
+      "source": "ArXiv",
+      "query": "convolutional neural networks CNN"
+    },
+    {
+      "title": "Acute Lymphoblastic Leukemia Detection Using Hypercomplex-Valued Convolutional Neural Networks",
+      "authors": "Guilherme Vieira, Marcos Eduardo Valle",
+      "abstract": "This paper features convolutional neural networks defined on hypercomplex algebras applied to classify lymphocytes in blood smear digital microscopic images. Such classification is helpful for the diagnosis of acute lymphoblast leukemia (ALL), a type of blood cancer. We perform the classification task using eight hypercomplex-valued convolutional neural networks (HvCNNs) along with real-valued convolutional networks. Our results show that HvCNNs perform better than the real-valued model, showcasing higher accuracy with a much smaller number of parameters. Moreover, we found that HvCNNs based on Clifford algebras processing HSV-encoded images attained the highest observed accuracies. Precisely, our HvCNN yielded an average accuracy rate of 96.6% using the ALL-IDB2 dataset with a 50% train-test split, a value extremely close to the state-of-the-art models but using a much simpler architecture with significantly fewer parameters.",
+      "pdf_url": "https://arxiv.org/pdf/2205.13273v1",
+      "source": "ArXiv",
+      "query": "convolutional neural networks CNN"
+    },
+    {
+      "title": "The Deep Arbitrary Polynomial Chaos Neural Network or how Deep Artificial Neural Networks could benefit from Data-Driven Homogeneous Chaos Theory",
+      "authors": "Sergey Oladyshkin, Timothy Praditia, Ilja Kröker, Farid Mohammadi, Wolfgang Nowak, Sebastian Otte",
+      "abstract": "Artificial Intelligence and Machine learning have been widely used in various fields of mathematical computing, physical modeling, computational science, communication science, and stochastic analysis. Approaches based on Deep Artificial Neural Networks (DANN) are very popular in our days. Depending on the learning task, the exact form of DANNs is determined via their multi-layer architecture, activation functions and the so-called loss function. However, for a majority of deep learning approaches based on DANNs, the kernel structure of neural signal processing remains the same, where the node response is encoded as a linear superposition of neural activity, while the non-linearity is triggered by the activation functions. In the current paper, we suggest to analyze the neural signal processing in DANNs from the point of view of homogeneous chaos theory as known from polynomial chaos expansion (PCE). From the PCE perspective, the (linear) response on each node of a DANN could be seen as a $1^{st}$ degree multi-variate polynomial of single neurons from the previous layer, i.e. linear weighted sum of monomials. From this point of view, the conventional DANN structure relies implicitly (but erroneously) on a Gaussian distribution of neural signals. Additionally, this view revels that by design DANNs do not necessarily fulfill any orthogonality or orthonormality condition for a majority of data-driven applications. Therefore, the prevailing handling of neural signals in DANNs could lead to redundant representation as any neural signal could contain some partial information from other neural signals. To tackle that challenge, we suggest to employ the data-driven generalization of PCE theory known as arbitrary polynomial chaos (aPC) to construct a corresponding multi-variate orthonormal representations on each node of a DANN to obtain Deep arbitrary polynomial chaos neural networks.",
+      "pdf_url": "https://arxiv.org/pdf/2306.14753v1",
+      "source": "ArXiv",
+      "query": "convolutional neural networks CNN"
+    },
+    {
+      "title": "Hierarchical Attentional Hybrid Neural Networks for Document Classification",
+      "authors": "Jader Abreu, Luis Fred, David Macêdo, Cleber Zanchettin",
+      "abstract": "Document classification is a challenging task with important applications. The deep learning approaches to the problem have gained much attention recently. Despite the progress, the proposed models do not incorporate the knowledge of the document structure in the architecture efficiently and not take into account the contexting importance of words and sentences. In this paper, we propose a new approach based on a combination of convolutional neural networks, gated recurrent units, and attention mechanisms for document classification tasks. The main contribution of this work is the use of convolution layers to extract more meaningful, generalizable and abstract features by the hierarchical representation. The proposed method in this paper improves the results of the current attention-based approaches for document classification.",
+      "pdf_url": "https://arxiv.org/pdf/1901.06610v2",
+      "source": "ArXiv",
+      "query": "convolutional neural networks CNN"
+    },
+    {
+      "title": "Convolution in Convolution for Network in Network",
+      "authors": "Yanwei Pang, Manli Sun, Xiaoheng Jiang, Xuelong Li",
+      "abstract": "Network in Netwrok (NiN) is an effective instance and an important extension of Convolutional Neural Network (CNN) consisting of alternating convolutional layers and pooling layers. Instead of using a linear filter for convolution, NiN utilizes shallow MultiLayer Perceptron (MLP), a nonlinear function, to replace the linear filter. Because of the powerfulness of MLP and $ 1\\times 1 $ convolutions in spatial domain, NiN has stronger ability of feature representation and hence results in better recognition rate. However, MLP itself consists of fully connected layers which give rise to a large number of parameters. In this paper, we propose to replace dense shallow MLP with sparse shallow MLP. One or more layers of the sparse shallow MLP are sparely connected in the channel dimension or channel-spatial domain. The proposed method is implemented by applying unshared convolution across the channel dimension and applying shared convolution across the spatial dimension in some computational layers. The proposed method is called CiC. Experimental results on the CIFAR10 dataset, augmented CIFAR10 dataset, and CIFAR100 dataset demonstrate the effectiveness of the proposed CiC method.",
+      "pdf_url": "https://arxiv.org/pdf/1603.06759v1",
+      "source": "ArXiv",
+      "query": "convolutional neural networks CNN"
+    },
+    {
+      "title": "DL-CNN: Double Layered Convolutional Neural Networks",
+      "authors": "Lixin Fu, Rohith Rangineni",
+      "abstract": "",
+      "doi": "10.5220/0011117000003179",
+      "publisher": "SCITEPRESS - Science and Technology Publications",
+      "year": 2022,
+      "url": "https://doi.org/10.5220/0011117000003179",
+      "source": "CrossRef",
+      "query": "convolutional neural networks CNN"
+    },
+    {
+      "title": "KLASIFIKASI BATIK RIAU DENGAN MENGGUNAKAN CONVOLUTIONAL NEURAL NETWORKS (CNN)",
+      "authors": "Hendry Fonda",
+      "abstract": "<jats:p>ABSTRACT&#x0D;\nRiau batik is known since the 18th century and is used by royal kings. Riau Batik is made by using a stamp that is mixed with coloring and then printed on fabric. The fabric used is usually silk. As its development, comparing Javanese  batik with riau batik Riau is very slowly accepted by the public. Convolutional Neural Networks (CNN) is a combination of artificial neural networks and deeplearning methods. CNN consists of one or more convolutional layers, often with a subsampling layer followed by one or more fully connected layers as a standard neural network. In the process, CNN will conduct training and testing of Riau batik so that a collection of batik models that have been classified based on the characteristics that exist in Riau batik can be determined so that images are Riau batik and non-Riau batik. Classification using CNN produces Riau batik and not Riau batik with an accuracy of 65%. Accuracy of 65% is due to basically many of the same motifs between batik and other batik with the difference lies in the color of the absorption in the batik riau.&#x0D;\nKata kunci: Batik; Batik Riau; CNN; Image; Deep Learning&#x0D;\n &#x0D;\nABSTRAK&#x0D;\n &#x0D;\nBatik Riau dikenal sejak abad ke 18 dan digunakan oleh bangsawan raja. Batik Riau dibuat dengan menggunakan cap yang dicampur dengan pewarna kemudian dicetak di kain. Kain yang digunakan biasanya sutra. Seiring perkembangannya, dibandingkan batik Jawa maka batik Riau sangat lambat diterima oleh masyarakat. Convolutional Neural Networks (CNN) merupakan kombinasi dari jaringan syaraf tiruan dan metode deeplearning. CNN terdiri dari satu atau lebih lapisan konvolutional, seringnya dengan suatu lapisan subsampling yang diikuti oleh satu atau lebih lapisan yang terhubung penuh sebagai standar jaringan syaraf. Dalam prosesnya CNN akan melakukan training dan testing terhadap batik Riau sehingga didapat kumpulan model batik yang telah terklasi    fikasi berdasarkan ciri khas yang ada pada batik Riau sehingga dapat ditentukan gambar (image) yang merupakan batik Riau dan yang bukan merupakan batik Riau. Klasifikasi menggunakan CNN menghasilkan batik riau dan bukan batik riau dengan akurasi 65%. Akurasi 65% disebabkan pada dasarnya banyak motif yang sama antara batik riau dengan batik lainnya dengan perbedaan terletak pada warna cerap pada batik riau.&#x0D;\nKata kunci: Batik; Batik Riau; CNN; Image; Deep Learning</jats:p>",
+      "doi": "10.33060/jik/2020/vol9.iss1.144",
+      "publisher": "STMIK Hang Tuah Pekanbaru",
+      "year": null,
+      "url": "https://doi.org/10.33060/jik/2020/vol9.iss1.144",
+      "source": "CrossRef",
+      "query": "convolutional neural networks CNN"
+    },
+    {
+      "title": "Image Discrimination and Parameter Analysis Based on Convolutional Neural Networks (CNN)",
+      "authors": "Jiahan Hu",
+      "abstract": "",
+      "doi": "10.5220/0012937000004508",
+      "publisher": "SCITEPRESS - Science and Technology Publications",
+      "year": 2024,
+      "url": "https://doi.org/10.5220/0012937000004508",
+      "source": "CrossRef",
+      "query": "convolutional neural networks CNN"
+    },
+    {
+      "title": "Application of Deep Learning for Handwriting Recognition of Lota Ende Activities Using the Convolutional Neural Networks (CNN ) Methods",
+      "authors": "Rofinus Aryanto, Mochammad Alfan Rosid",
+      "abstract": "",
+      "doi": "10.21070/ups.1206",
+      "publisher": "Universitas Muhammadiyah Sidoarjo",
+      "year": null,
+      "url": "https://doi.org/10.21070/ups.1206",
+      "source": "CrossRef",
+      "query": "convolutional neural networks CNN"
+    },
+    {
+      "title": "Convolutional Neural Networks (CNN)",
+      "authors": "Arash Gharehbaghi",
+      "abstract": "",
+      "doi": "10.1201/9780429321252-15",
+      "publisher": "CRC Press",
+      "year": 2023,
+      "url": "https://doi.org/10.1201/9780429321252-15",
+      "source": "CrossRef",
+      "query": "convolutional neural networks CNN"
+    }
+  ]
+}

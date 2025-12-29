@@ -1,0 +1,11 @@
+{
+  "title": "Computer Vision and Deep Learning Transforming Image Recognition and Beyond",
+  "authors": "Yizhi Chen, Sihao Wang, Luqi Lin, Zhengrong Cui, Yanqi Zong",
+  "abstract": "Computer vision is a cutting-edge information processing technology that seeks to mimic the human visual nervous system.   Its primary aim is to emulate the psychological processes of human vision to interpret and depict objective scenery.   This revolutionary field encompasses a wide range of applications, including life sciences, medical diagnosis, military operations, scientific research, and many others. At the heart of computer vision lies the theoretical core, which includes deep learning, image recognition, target detection, and target tracking These elements combine to enable computers to process, analyze, and understand images, allowing for the classification of objects based on various patterns One of the standout advantages of deep learning techniques, when compared to traditional methods, is their ability to automatically learn and adapt to the specific features required for a given problem.   This adaptive nature of deep learning networks has opened up new possibilities and paved the way for remarkable breakthroughs in the field of computer vision. This paper examines the practical application of computer vision processing technology and convolutional neural networks (CNNs) and elucidates the advancements in artificial intelligence within the field of computer vision image recognition. It does so by showcasing the tangible benefits and functionalities of these technologies.",
+  "pdf_url": "https://wepub.org/index.php/IJCSIT/article/download/683/678",
+  "venue": "International Journal of Computer Science & Information Technology (IJCSIT)",
+  "year": 2024,
+  "citations": 18,
+  "source": "Semantic Scholar",
+  "query": "computer vision image recognition"
+}

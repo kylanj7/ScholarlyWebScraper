@@ -1,0 +1,103 @@
+{
+  "query": "reinforcement learning algorithms",
+  "timestamp": "2025-12-29T09:26:48.272970",
+  "total_found": 10,
+  "downloaded": 5,
+  "papers": [
+    {
+      "title": "ARLBench: Flexible and Efficient Benchmarking for Hyperparameter Optimization in Reinforcement Learning",
+      "authors": "Jannis Becktepe, Julian Dierkes, Carolin Benjamins, Aditya Mohan, David Salinas, Raghu Rajan, Frank Hutter, Holger Hoos, Marius Lindauer, Theresa Eimer",
+      "abstract": "Hyperparameters are a critical factor in reliably training well-performing reinforcement learning (RL) agents. Unfortunately, developing and evaluating automated approaches for tuning such hyperparameters is both costly and time-consuming. As a result, such approaches are often only evaluated on a single domain or algorithm, making comparisons difficult and limiting insights into their generalizability. We propose ARLBench, a benchmark for hyperparameter optimization (HPO) in RL that allows comparisons of diverse HPO approaches while being highly efficient in evaluation. To enable research into HPO in RL, even in settings with low compute resources, we select a representative subset of HPO tasks spanning a variety of algorithm and environment combinations. This selection allows for generating a performance profile of an automated RL (AutoRL) method using only a fraction of the compute previously necessary, enabling a broader range of researchers to work on HPO in RL. With the extensive and large-scale dataset on hyperparameter landscapes that our selection is based on, ARLBench is an efficient, flexible, and future-oriented foundation for research on AutoRL. Both the benchmark and the dataset are available at https://github.com/automl/arlbench.",
+      "pdf_url": "https://arxiv.org/pdf/2409.18827v1",
+      "source": "ArXiv",
+      "query": "reinforcement learning algorithms"
+    },
+    {
+      "title": "Exploring Hierarchy-Aware Inverse Reinforcement Learning",
+      "authors": "Chris Cundy, Daniel Filan",
+      "abstract": "We introduce a new generative model for human planning under the Bayesian Inverse Reinforcement Learning (BIRL) framework which takes into account the fact that humans often plan using hierarchical strategies. We describe the Bayesian Inverse Hierarchical RL (BIHRL) algorithm for inferring the values of hierarchical planners, and use an illustrative toy model to show that BIHRL retains accuracy where standard BIRL fails. Furthermore, BIHRL is able to accurately predict the goals of `Wikispeedia' game players, with inclusion of hierarchical structure in the model resulting in a large boost in accuracy. We show that BIHRL is able to significantly outperform BIRL even when we only have a weak prior on the hierarchical structure of the plans available to the agent, and discuss the significant challenges that remain for scaling up this framework to more realistic settings.",
+      "pdf_url": "https://arxiv.org/pdf/1807.05037v1",
+      "source": "ArXiv",
+      "query": "reinforcement learning algorithms"
+    },
+    {
+      "title": "Causal-Paced Deep Reinforcement Learning",
+      "authors": "Geonwoo Cho, Jaegyun Im, Doyoon Kim, Sundong Kim",
+      "abstract": "Designing effective task sequences is crucial for curriculum reinforcement learning (CRL), where agents must gradually acquire skills by training on intermediate tasks. A key challenge in CRL is to identify tasks that promote exploration, yet are similar enough to support effective transfer. While recent approach suggests comparing tasks via their Structural Causal Models (SCMs), the method requires access to ground-truth causal structures, an unrealistic assumption in most RL settings. In this work, we propose Causal-Paced Deep Reinforcement Learning (CP-DRL), a curriculum learning framework aware of SCM differences between tasks based on interaction data approximation. This signal captures task novelty, which we combine with the agent's learnability, measured by reward gain, to form a unified objective. Empirically, CP-DRL outperforms existing curriculum methods on the Point Mass benchmark, achieving faster convergence and higher returns. CP-DRL demonstrates reduced variance with comparable final returns in the Bipedal Walker-Trivial setting, and achieves the highest average performance in the Infeasible variant. These results indicate that leveraging causal relationships between tasks can improve the structure-awareness and sample efficiency of curriculum reinforcement learning. We provide the full implementation of CP-DRL to facilitate the reproduction of our main results at https://github.com/Cho-Geonwoo/CP-DRL.",
+      "pdf_url": "https://arxiv.org/pdf/2507.02910v1",
+      "source": "ArXiv",
+      "query": "reinforcement learning algorithms"
+    },
+    {
+      "title": "A Tutorial on Meta-Reinforcement Learning",
+      "authors": "Jacob Beck, Risto Vuorio, Evan Zheran Liu, Zheng Xiong, Luisa Zintgraf, Chelsea Finn, Shimon Whiteson",
+      "abstract": "While deep reinforcement learning (RL) has fueled multiple high-profile successes in machine learning, it is held back from more widespread adoption by its often poor data efficiency and the limited generality of the policies it produces. A promising approach for alleviating these limitations is to cast the development of better RL algorithms as a machine learning problem itself in a process called meta-RL. Meta-RL is most commonly studied in a problem setting where, given a distribution of tasks, the goal is to learn a policy that is capable of adapting to any new task from the task distribution with as little data as possible. In this survey, we describe the meta-RL problem setting in detail as well as its major variations. We discuss how, at a high level, meta-RL research can be clustered based on the presence of a task distribution and the learning budget available for each individual task. Using these clusters, we then survey meta-RL algorithms and applications. We conclude by presenting the open problems on the path to making meta-RL part of the standard toolbox for a deep RL practitioner.",
+      "pdf_url": "https://arxiv.org/pdf/2301.08028v4",
+      "source": "ArXiv",
+      "query": "reinforcement learning algorithms"
+    },
+    {
+      "title": "How Should We Meta-Learn Reinforcement Learning Algorithms?",
+      "authors": "Alexander David Goldie, Zilin Wang, Jaron Cohen, Jakob Nicolaus Foerster, Shimon Whiteson",
+      "abstract": "The process of meta-learning algorithms from data, instead of relying on manual design, is growing in popularity as a paradigm for improving the performance of machine learning systems. Meta-learning shows particular promise for reinforcement learning (RL), where algorithms are often adapted from supervised or unsupervised learning despite their suboptimality for RL. However, until now there has been a severe lack of comparison between different meta-learning algorithms, such as using evolution to optimise over black-box functions or LLMs to propose code. In this paper, we carry out this empirical comparison of the different approaches when applied to a range of meta-learned algorithms which target different parts of the RL pipeline. In addition to meta-train and meta-test performance, we also investigate factors including the interpretability, sample cost and train time for each meta-learning algorithm. Based on these findings, we propose several guidelines for meta-learning new RL algorithms which will help ensure that future learned algorithms are as performant as possible.",
+      "pdf_url": "https://arxiv.org/pdf/2507.17668v2",
+      "source": "ArXiv",
+      "query": "reinforcement learning algorithms"
+    },
+    {
+      "title": "Average Reward Reinforcement Learning: Foundations, Algorithms, and Empirical Results",
+      "authors": "Sridhar Mahadevan",
+      "abstract": "",
+      "doi": "10.1007/978-0-585-33656-5_8",
+      "publisher": "Springer US",
+      "year": null,
+      "url": "https://doi.org/10.1007/978-0-585-33656-5_8",
+      "source": "CrossRef",
+      "query": "reinforcement learning algorithms"
+    },
+    {
+      "title": "Simple Statistical Gradient-Following Algorithms for Connectionist Reinforcement Learning",
+      "authors": "Ronald J. Williams",
+      "abstract": "",
+      "doi": "10.1007/978-1-4615-3618-5_2",
+      "publisher": "Springer US",
+      "year": 1992,
+      "url": "https://doi.org/10.1007/978-1-4615-3618-5_2",
+      "source": "CrossRef",
+      "query": "reinforcement learning algorithms"
+    },
+    {
+      "title": "Incremental Algorithms",
+      "authors": "",
+      "abstract": "",
+      "doi": "10.7551/mitpress/14207.003.0008",
+      "publisher": "The MIT Press",
+      "year": 2023,
+      "url": "https://doi.org/10.7551/mitpress/14207.003.0008",
+      "source": "CrossRef",
+      "query": "reinforcement learning algorithms"
+    },
+    {
+      "title": "Algorithms for Multi-Copy Reinforcement Learning",
+      "authors": "Oliver Philip Diamond",
+      "abstract": "",
+      "doi": "10.14418/wes01.1.2707",
+      "publisher": "Wesleyan University",
+      "year": null,
+      "url": "https://doi.org/10.14418/wes01.1.2707",
+      "source": "CrossRef",
+      "query": "reinforcement learning algorithms"
+    },
+    {
+      "title": "Model-Free Deep Reinforcement Learning—Algorithms and Applications",
+      "authors": "Fabian Otto",
+      "abstract": "",
+      "doi": "10.1007/978-3-030-41188-6_10",
+      "publisher": "Springer International Publishing",
+      "year": 2021,
+      "url": "https://doi.org/10.1007/978-3-030-41188-6_10",
+      "source": "CrossRef",
+      "query": "reinforcement learning algorithms"
+    }
+  ]
+}
